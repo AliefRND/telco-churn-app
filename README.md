@@ -188,13 +188,13 @@ telco-churn-app/
 
 **Co-Author:** Senoji Wicaksono 
 **Email:** sena.aji30@gmail.com
-**LinkedIn:** [(https://www.linkedin.com/in/alief-dharmawan/)](https://www.linkedin.com/in/alief-dharmawan/)
-**GitHub:** [[https://github.com/senoaw017]((https://github.com/senoaw017)))
+**LinkedIn:** [(https://www.linkedin.com/in/senoaji-wicaksono-2871b416a/details/education/)](https://www.linkedin.com/in/senoaji-wicaksono-2871b416a/details/education/)
+**GitHub:** [[https://github.com/senoaw017](https://github.com/senoaw017))
 
 **Co-Author:** Sheyla Annisyah
 **Email:** sheylaannisyah@gmail.com
 **LinkedIn:** [(https://www.linkedin.com/in/sheylaannisyah/)](https://www.linkedin.com/in/sheylaannisyah/)
-**GitHub:** [[https://github.com/SheylaAnn]((https://github.com/SheylaAnn))
+**GitHub:** [[https://github.com/SheylaAnn](https://github.com/SheylaAnn))
 
 
 Proyek ini dikembangkan sebagai bagian dari **Final Project Data Science Bootcamp**, dengan fokus pada penerapan **machine learning untuk prediksi customer churn** di industri telekomunikasi.  
