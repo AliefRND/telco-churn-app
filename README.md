@@ -187,9 +187,9 @@ telco-churn-app/
 **LinkedIn:** [(https://www.linkedin.com/in/alief-dharmawan/)](https://www.linkedin.com/in/alief-dharmawan/)
 **GitHub:** [[https://github.com/AliefRND](https://github.com/AliefRND))
 
-**Co-Author:** Senoji Wicaksono 
+**Co-Author:** Senoaji Wicaksono 
 **Email:** sena.aji30@gmail.com
-**LinkedIn:** [(https://www.linkedin.com/in/senoaji-wicaksono-2871b416a/details/education/)](https://www.linkedin.com/in/senoaji-wicaksono-2871b416a/details/education/)
+**LinkedIn:** [(https://www.linkedin.com/in/senoaji-wicaksono-2871b416a/)](https://www.linkedin.com/in/senoaji-wicaksono-2871b416a/)
 **GitHub:** [[https://github.com/senoaw017](https://github.com/senoaw017))
 
 **Co-Author:** Sheyla Annisyah
