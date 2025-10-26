@@ -260,15 +260,9 @@ with tab2:
     untuk melakukan prediksi churn pelanggan.  
     - Beberapa *custom transformer* (`NoOutlier`, `IQRClipper`, `QuantileWinsorizer`) disertakan di kode ini  
     **bukan karena digunakan dalam model akhir**, melainkan agar Streamlit dapat memuat pipeline  
-    tanpa error (sebagai *placeholder class* dari proses benchmarking sebelumnya).  
-    - Model prediksi dimuat secara efisien menggunakan cache (`@st.cache_resource`)  
-    untuk mempercepat waktu eksekusi dan menghindari pemuatan ulang berulang kali.  
+    tanpa error (sebagai *placeholder class* dari proses benchmarking sebelumnya).
     - Struktur kolom input pada UI disusun **agar sesuai dengan urutan dan nama fitur saat training**,  
     sehingga mencegah error akibat ketidaksesuaian kolom (*mismatch*).  
     - Fitur-fitur yang bergantung pada layanan (seperti *Multiple Lines* dan *Internet-related services*)  
-    memiliki **logika otomatis** untuk menyesuaikan nilai yang relevan berdasarkan input pengguna.  
-    - Saat retraining model, disarankan menggunakan encoder dengan parameter  
-    **`handle_unknown='ignore'`** agar tetap stabil terhadap kategori baru yang belum pernah muncul.  
-    - Pipeline dan metadata model sebaiknya disimpan untuk **reproducibility dan audit trail**,  
-    misalnya menyertakan `{'sklearn_version': sklearn.__version__, 'created_at': 'YYYY-MM-DD'}` bersama file model.
+    memiliki **logika otomatis** untuk menyesuaikan nilai yang relevan berdasarkan input pengguna.
     """)
