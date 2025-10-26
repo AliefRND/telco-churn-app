@@ -159,8 +159,6 @@ telco-churn-app/
 ├── notebooks/ # Notebook analisis dan pengembangan model
 │ ├── finalproject.ipynb
 │
-├── references/ # Dokumen pendukung seperti sumber literatur, business context, dan catatan analisis
-│
 ├── reports/ # Visualisasi hasil dan dashboard (mis. Tableau)
 │ └── tableau_dashboard.twbx
 │
