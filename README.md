@@ -146,6 +146,7 @@ Proyek ini dikembangkan menggunakan bahasa pemrograman **Python 3.12** serta ber
 Struktur proyek ini dirancang agar mudah untuk dipahami, direproduksi, dan dikembangkan.  
 Setiap folder memiliki fungsi spesifik untuk memisahkan tahap analisis data, pelatihan model, dan deployment Streamlit web-based tool.
 
+'''
 telco-churn-app/
 │
 ├── data/ # Berisi dataset mentah dan hasil preprocessing
@@ -165,6 +166,7 @@ telco-churn-app/
 ├── streamlit_app.py # Source code utama untuk web-based churn prediction tool
 ├── requirements.txt # Daftar library dan dependencies proyek
 ├── README.md # Dokumentasi utama proyek
+'''
 
 ### Deskripsi Singkat Folder
 
